@@ -1,8 +1,8 @@
 <h1 align="center">Bem-vindo ao meu perfil GitHub 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=dracula" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioGitHub&layout=compact&theme=dracula" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zepa1&show_icons=true&theme=dracula" width="410"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepa1&layout=compact&theme=dracula" width="350"/>
 </p>
 
 ---
